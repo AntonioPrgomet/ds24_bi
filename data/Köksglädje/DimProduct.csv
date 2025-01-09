@@ -1,0 +1,41 @@
+﻿ProductID,ProductName,Description,CategoryName,Price,CostPrice
+1,Kockkniv,Kockkniv 18 cm,Köksknivar,999.00 kr,620.00 kr
+2,Brödkniv,Brödkniv med tandat blad 22 cm,Köksknivar,749.00 kr,450.00 kr
+3,Santokukniv,Japansk Santokukniv 17 cm,Köksknivar,1199.00 kr,800.00 kr
+4,Skalkniv,Liten skalkniv 10 cm,Köksknivar,299.00 kr,150.00 kr
+5,Grönsakskniv,Grönsakskniv med brett blad 15 cm,Köksknivar,499.00 kr,300.00 kr
+6,Matberedare,Matberedare med 2 liters kapacitet,Köksmaskiner,1599.00 kr,1200.00 kr
+7,Köksassistent,"Kraftfull köksassistent med 4,5 liters skål",Köksmaskiner,4999.00 kr,3500.00 kr
+8,Stavmixer,Stavmixer med olika hastigheter,Köksmaskiner,699.00 kr,400.00 kr
+9,Blender,"Högpresterande blender 1,5 liter",Köksmaskiner,1399.00 kr,1000.00 kr
+10,Kaffebryggare,Droppkaffebryggare för 12 koppar,Köksmaskiner,899.00 kr,550.00 kr
+11,Stekgryta,Gjutjärnsgryta 4 liter,Grytor/Kastruller,1499.00 kr,950.00 kr
+12,Kastrull,Kastrull i rostfritt stål 2 liter,Grytor/Kastruller,699.00 kr,400.00 kr
+13,Tryckkokare,Tryckkokare 6 liter,Grytor/Kastruller,1899.00 kr,1200.00 kr
+14,Pastakastrull,Pastakastrull med insats,Grytor/Kastruller,899.00 kr,550.00 kr
+15,Soppgryta,Soppgryta 5 liter,Grytor/Kastruller,1199.00 kr,750.00 kr
+16,Visp,Ballongvisp i rostfritt stål,Bakredskap,149.00 kr,80.00 kr
+17,Bakmatta,Silikonbakmatta för enkel bakning,Bakredskap,299.00 kr,180.00 kr
+18,Måttset,Måttkannor och skedar set,Bakredskap,199.00 kr,120.00 kr
+19,Bakform,Rund springform 24 cm,Bakredskap,349.00 kr,200.00 kr
+20,Kavel,Träkavel 45 cm,Bakredskap,249.00 kr,150.00 kr
+21,Slev,Slev i trä,Köksredskap,99.00 kr,50.00 kr
+22,Potatispress,Potatispress i rostfritt stål,Köksredskap,399.00 kr,220.00 kr
+23,Pizzaskärare,Pizzaskärare med ergonomiskt handtag,Köksredskap,249.00 kr,150.00 kr
+24,Durkslag,Durkslag i plast,Köksredskap,149.00 kr,80.00 kr
+25,Skärbräda,Skärbräda i bambu 40 cm,Köksredskap,399.00 kr,220.00 kr
+26,Matlåda,Glasmatlåda med tättslutande lock 1 liter,Förvaring,149.00 kr,90.00 kr
+27,Förvaringsburk,Förvaringsburk i glas med bambulock 500 ml,Förvaring,99.00 kr,60.00 kr
+28,Kaffeburk,Kaffeburk i metall med lock,Förvaring,249.00 kr,150.00 kr
+29,Kryddburkar,Set med 6 kryddburkar i glas,Förvaring,399.00 kr,250.00 kr
+30,Brödlåda,Brödlåda i metall med lock,Förvaring,599.00 kr,400.00 kr
+31,Stekpanna,Stekpanna i gjutjärn 28 cm,Stekpannor,799.00 kr,500.00 kr
+32,Non-stick Stekpanna,Stekpanna med non-stick beläggning 24 cm,Stekpannor,699.00 kr,450.00 kr
+33,Wokpanna,Wokpanna 30 cm med non-stick,Stekpannor,999.00 kr,650.00 kr
+34,Grillpanna,Grillpanna med räfflad yta 26 cm,Stekpannor,899.00 kr,550.00 kr
+35,Crepepanna,Crepepanna med låg kant 25 cm,Stekpannor,599.00 kr,350.00 kr
+36,Vattenkokare,"Vattenkokare 1,7 liter",Köksmaskiner,499.00 kr,300.00 kr
+37,Termometer,Digital kökstermometer,Köksredskap,199.00 kr,100.00 kr
+38,Iskrossare,Iskrossare manuell,Övrigt,349.00 kr,220.00 kr
+39,Brödrost,Brödrost för 2 skivor,Köksmaskiner,699.00 kr,450.00 kr
+40,Sous Vide,Sous Vide-cirkulator med display,Köksmaskiner,1299.00 kr,900.00 kr
